@@ -1,1 +1,1 @@
-Projeto git
+Este é um repositório de teste para aprendizagem do Git/Github
